@@ -1,0 +1,9 @@
+Danilo Hideo Yamamoto e Joyce Rufino Pereira RM: 22047 e 22030
+
+
+1) O Sorted deixa os itens em ordem Alfabética.
+
+2) O DropDownList tira o que está escrito no Text, já o Simple deixa a lista visível.
+
+3) Cria um filtro de busca.
+
