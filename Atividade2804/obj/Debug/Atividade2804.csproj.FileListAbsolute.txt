@@ -1,0 +1,11 @@
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\bin\Debug\Atividade2804.exe.config
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\bin\Debug\Atividade2804.exe
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\bin\Debug\Atividade2804.pdb
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\obj\Debug\Atividade2804.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\obj\Debug\Atividade2804.frmPedido.resources
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\obj\Debug\Atividade2804.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\obj\Debug\Atividade2804.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\obj\Debug\Atividade2804.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\obj\Debug\Atividade2804.exe
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\obj\Debug\Atividade2804.pdb
+C:\Users\Laboratorio-Info\source\repos\Atividade2804\Atividade2804\obj\Debug\Atividade2804.frmDinner.resources
